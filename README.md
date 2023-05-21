@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a football stats website<br>🤝 I’m looking for help with<br>🌱 I’m currently learning express and React<br>💬 Ask me about Django, python, tailwindcss
+🔭 I’m currently working on a football stats website<br>🌱 I’m currently learning express and React<br>💬 Ask me about Django, python, tailwindcss
 
 
 ## 🌐 Socials:
