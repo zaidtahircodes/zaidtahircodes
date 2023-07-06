@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zaidtahircodes&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidtahircodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=zaidtahir_)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zaidtahircodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
